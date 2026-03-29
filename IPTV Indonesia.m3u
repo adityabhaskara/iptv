@@ -27,3 +27,5 @@ http://103.66.62.83:8000/play/a00v/index.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1 tvg-name="Indosiar" tvg-logo="" group-title="",Indosiar
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+#EXTINF:-1 tvg-name="Trans TV" tvg-logo="" group-title="OTHER",Trans TV
+https://livestream.transtv.co.id/stream/live/ttv.m3u8
