@@ -28,6 +28,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1 tvg-name="Indosiar" tvg-logo="" group-title="",Indosiar
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 #EXTINF:-1 tvg-name="Trans TV" tvg-logo="" group-title="OTHER",Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Trans TV (2)" tvg-logo="" group-title="OTHER",Trans TV (2)
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #EXTINF:-1 tvg-name="Garuda TV" tvg-logo="" group-title="NEWS",Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
