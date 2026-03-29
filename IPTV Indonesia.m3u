@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="iNews HD" tvg-logo="" group-title="NEWS",iNews HD
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+#EXTINF:-1 tvg-name="Kompas TV" tvg-logo="" group-title="NEWS",Kompas TV
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+#EXTINF:-1 tvg-name="Berita Satu" tvg-logo="" group-title="NEWS",Berita Satu
+https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
+#EXTINF:-1 tvg-name="Moji HD" tvg-logo="" group-title="",Moji HD
+https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="" group-title="",RCTI
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+#EXTINF:-1 tvg-name="SCTV HD" tvg-logo="" group-title="",SCTV HD
+https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+#EXTINF:-1 tvg-name="Metro TV HD" tvg-logo="" group-title="NEWS",Metro TV HD
+https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
+#EXTINF:-1 tvg-name="Bali TV" tvg-logo="" group-title="",Bali TV
+https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
+#EXTINF:-1 tvg-name="Berita Satu (Link 2)" tvg-logo="" group-title="NEWS",Berita Satu (Link 2)
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-name="Kompas TV (Link 2)" tvg-logo="" group-title="NEWS",Kompas TV (Link 2)
+https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
+#EXTINF:-1 tvg-name="Global TV" tvg-logo="" group-title="",Global TV
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="" group-title="",MNC TV
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+#EXTINF:-1 tvg-name="RCTI (Link 2)" tvg-logo="" group-title="",RCTI (Link 2)
+http://103.66.62.83:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-name="TVOne" tvg-logo="" group-title="",TVOne
+https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
+#EXTINF:-1 tvg-name="Trans TV" tvg-logo="" group-title="",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF:-1 tvg-name="Trans 7" tvg-logo="" group-title="",Trans 7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1 tvg-name="Indosiar" tvg-logo="" group-title="",Indosiar
+https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+#EXTINF:-1 tvg-name="CNBC Indonesia" tvg-logo="" group-title="NEWS",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="" group-title="NEWS",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
