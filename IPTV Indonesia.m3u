@@ -8,10 +8,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 #EXTINF:-1 tvg-name="Moji" tvg-logo="https://i.ibb.co.com/Xx1yC9Vy/moji.jpg" group-title="OTHER",Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="" group-title="",RCTI
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://i.ibb.co.com/Kc02MXgH/rcti.jpg" group-title="",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="" group-title="OTHER",SCTV
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://i.ibb.co.com/wNNpXH0G/sctv.jpg" group-title="OTHER",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://i.ibb.co.com/k2PjbMqP/metrotv.jpg" group-title="NEWS",Metro TV
