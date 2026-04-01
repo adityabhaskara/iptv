@@ -68,6 +68,6 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-name="TVRI Sport (2)" tvg-logo="" group-title="OTHER",TVRI Sport (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
-#EXTINF:-1 tvg-name="Bali TV" tvg-logo="" group-title="OTHER",Bali TV
+#EXTINF:-1 tvg-name="Bali TV" tvg-logo="https://i.ibb.co.com/HpdKm6dY/balitv.jpg" group-title="OTHER",Bali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
