@@ -44,10 +44,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 #EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://i.ibb.co.com/1f9GdpP3/indosiar.jpg" group-title="",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
-#EXTINF:-1 tvg-name="Trans TV" tvg-logo="" group-title="OTHER",Trans TV
+#EXTINF:-1 tvg-name="Trans TV" tvg-logo="https://i.ibb.co.com/fzjFKGRx/transtv.jpg" group-title="OTHER",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Trans TV (2)" tvg-logo="" group-title="OTHER",Trans TV (2)
+#EXTINF:-1 tvg-name="Trans TV (2)" tvg-logo="https://i.ibb.co.com/fzjFKGRx/transtv.jpg" group-title="OTHER",Trans TV (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #EXTINF:-1 tvg-name="Garuda TV" tvg-logo="" group-title="NEWS",Garuda TV
@@ -59,7 +59,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co.com/MkNMRT7q/cnnindonesia.jpg" group-title="NEWS",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Trans 7" tvg-logo="" group-title="OTHER",Trans 7
+#EXTINF:-1 tvg-name="Trans 7" tvg-logo="https://i.ibb.co.com/FLTN7GRj/trans7.jpg" group-title="OTHER",Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVRI Sport" tvg-logo="https://i.ibb.co.com/C5nBp0Wp/tvrisport.jpg" group-title="OTHER",TVRI Sport
