@@ -35,7 +35,7 @@ https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://i.ibb.co.com/svyw0yVD/gtv.jpg" group-title="",GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
-#EXTINF:-1 tvg-name="MNC TV" tvg-logo="" group-title="",MNC TV
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://i.ibb.co.com/sdCJYFpX/mnctv.jpg" group-title="",MNC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #EXTINF:-1 tvg-name="TVOne" tvg-logo="https://i.ibb.co.com/pvNLSpx1/tvone.jpg" group-title="",TVOne
@@ -50,7 +50,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Trans TV (2)" tvg-logo="https://i.ibb.co.com/fzjFKGRx/transtv.jpg" group-title="OTHER",Trans TV (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://livestream.transtv.co.id/stream/live/ttv.m3u8
-#EXTINF:-1 tvg-name="Garuda TV" tvg-logo="" group-title="NEWS",Garuda TV
+#EXTINF:-1 tvg-name="Garuda TV" tvg-logo="https://i.ibb.co.com/rG2DKgTB/garudatv.jpg" group-title="NEWS",Garuda TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #EXTINF:-1 tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co.com/pBFR81FD/cnbcindonesia.jpg" group-title="NEWS",CNBC Indonesia
