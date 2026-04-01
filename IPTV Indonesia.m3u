@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="iNews HD" tvg-logo="" group-title="NEWS",iNews HD
+#EXTINF:-1 tvg-name="iNews HD" tvg-logo="https://i.ibb.co.com/hx37YYFq/inews.jpg" group-title="NEWS",iNews HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
-#EXTINF:-1 tvg-name="Berita Satu" tvg-logo="" group-title="NEWS",Berita Satu
+#EXTINF:-1 tvg-name="Berita Satu" tvg-logo="https://i.ibb.co.com/wFGt3nHr/beritasatu.jpg" group-title="NEWS",Berita Satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 #EXTINF:-1 tvg-name="Moji" tvg-logo="" group-title="OTHER",Moji
