@@ -14,10 +14,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="" group-title="OTHER",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
-#EXTINF:-1 tvg-name="Metro TV" tvg-logo="" group-title="NEWS",Metro TV
+#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://i.ibb.co.com/k2PjbMqP/metrotv.jpg" group-title="NEWS",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Metro TV (2)" tvg-logo="" group-title="NEWS",Metro TV (2)
+#EXTINF:-1 tvg-name="Metro TV (2)" tvg-logo="https://i.ibb.co.com/k2PjbMqP/metrotv.jpg" group-title="NEWS",Metro TV (2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 #EXTINF:-1 tvg-name="Berita Satu (2)" tvg-logo="" group-title="NEWS",Berita Satu (2)
