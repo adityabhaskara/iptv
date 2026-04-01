@@ -14,6 +14,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://i.ibb.co.com/Kc02MXgH/rcti.jpg" group-title="",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+#EXTINF:-1 tvg-name="RCTI (2)" tvg-logo="https://i.ibb.co.com/Kc02MXgH/rcti.jpg" group-title="OTHER",RCTI (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
+http://103.66.62.83:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://i.ibb.co.com/wNNpXH0G/sctv.jpg" group-title="OTHER",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
@@ -35,9 +38,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
 #EXTINF:-1 tvg-name="MNC TV" tvg-logo="" group-title="",MNC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
-#EXTINF:-1 tvg-name="RCTI (2)" tvg-logo="" group-title="OTHER",RCTI (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
-http://103.66.62.83:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-name="TVOne" tvg-logo="" group-title="",TVOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
