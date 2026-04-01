@@ -53,10 +53,10 @@ https://livestream.transtv.co.id/stream/live/ttv.m3u8
 #EXTINF:-1 tvg-name="Garuda TV" tvg-logo="" group-title="NEWS",Garuda TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
-#EXTINF:-1 tvg-name="CNBC Indonesia" tvg-logo="" group-title="NEWS",CNBC Indonesia
+#EXTINF:-1 tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co.com/pBFR81FD/cnbcindonesia.jpg" group-title="NEWS",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="" group-title="NEWS",CNN Indonesia
+#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co.com/MkNMRT7q/cnnindonesia.jpg" group-title="NEWS",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Trans 7" tvg-logo="" group-title="OTHER",Trans 7
